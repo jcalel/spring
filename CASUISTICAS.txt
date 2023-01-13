@@ -1,0 +1,179 @@
+dificultad hogar inalámbrico: 7090
+
+Buzón de #123
+
+orden: 530159033
+Fecha de entrega original: Agosto, 18
+equipo en reparto desde el 17
+RUT: 18874472-9
+cliente: SUSANA SOLANGE KONING PENAILILLO
+
+******FACTURACIÓN*******
+
+Gracias por la amable espera, verifico que actualmente cuentas con una boleta pendiente de pago por $XXXX. 
+Esta se emitió el XX-XX-XX y pertenece al consumo de (    ). 
+A continuación te entregamos el detalle de la misma.
+ 
+
+- Número de documento: XXXXXXX
+
+- Cargo fijo del número terminado en XXXX: $XXXX
+
+- Cargos a la cuenta (Netflix, Spotify, Google Play): $XXXX
+
+- Cargos adicionales (Suscripción de contenido, horóscopo, chistes): $XXX
+
+******PAGO NO REGISTRADO******
+
+Muchas gracias por la amable espera. Mi intención es poder ayudarte con ello, es por eso que en este preciso momento he ingresado una solicitud de reporte para que tu pago  pueda verse impactado en el sistema en un plazo no mayor a 5 días, me encantaría que sea lo antes posible, pero por el momento tenemos que esperar el tiempo estipulado por el sistema, asimismo para que no vuelvas a tener inconvenientes, te sugiero enviar el comprobante de pago a este correo g_pagonoingresado@entel.cl . :)
+
+Comprendo lo que me indicas, lo que pasa es que el pago que realizaste no se impacto en nuestro sistema, es por ello que he ingresado el reporte con carácter de urgencia para que se pueda revisar el pago que efectuaste para se regularice tu cuenta y estés al día con el pago, por lo que pido en esta oportunidad mantenerte a la espera. :)
+
+Entiendo tu malestar, lo que pasa es que debido a que el pago lo realizaste fuera de la fecha estipulada el sistema no lo valido ni lo registro, es por ello que he ingresado el requerimiento con carácter de urgencia para que se revise el pago que realizaste y se impacte de manera manual en el plazo estipulado, posterior a la fecha de respuesta del pago no registrado, podrás solicitar la reactivación del servicio. 
+
+Comprendo lo que me indicas, me encantaría reactivarlo en este preciso momento para que puedas hacer uso de tu servicio, pero no me es posible debido a la deuda que mantienes, el cual ingresó un requerimiento para que se pueda revisar el pago que realizaste, por lo que en esta oportunidad te pido mantenerte a la espera.
+
+
+************DIFICULTAD DE NAVEGACIÓN************
+
+Pepe, entiendo tu molestia, y voy a revisar todas las posibilidades que tengo para ayudarte. Para eso necesito verificar el sistema. Dame un momento mientras valido".
+
+REVISIÓN DE CASO EN SIEBEL!!!!!!!!!
+
+Pepe, entiendo tu molestia y sabemos que es importante para ti estar conectado. Te comento que esto ya está en revisión. Volveré a insistir en tu caso".
+
+RECLAMO: Pepe, te pido disculpas porque todavía no tenemos la información de tu reclamo. Voy a insistir en tu caso con el área técnica, para que lo revisen".
+
+Pepe, para poder ayudarte, por favor dime:
+¿El problema te ocurre en cualquier parte o en 1 lugar específico?
+
+¿Sabes si hay otros usuarios de Entel que presentan dificultad en el mismo lugar?”
+
+Si el cliente tiene problemas en cualquier parte
+
+Comprendo lo que me indicas, para revisar la dificultad que presentas, por favor valídame los siguientes datos:
+
+- Marca y modelo del equipo
+- Imei, lo podrás encontrar marcando *#06#
+- El problema es solo con las redes sociales o con la navegación en general
+
+COBERTURA: Clientes que presenten problemas en el mismo lugar y haya mas usuarios con el misom problema
+
+Por favor valídame los siguientes datos:
+
+- Cuáles son los íconos que te aparecen en la parte superior de la pantalla del equipo móvil: 2G / 3G / LTE / VoLTE.
+- Desde cuándo le sucede la dificultad (fecha y hora).
+
+Pepe, voy a validar el estado de tu línea".
+
+- Gracias por la espera, verifico que tu línea se encuentra activa
+
+Pepe, voy a validar tus datos de navegación, permíteme un momento en línea por favor.
+
+- Gracias por la espera, verifico que tus datos se encuentra activos.
+
+Pepe, voy a revisar si existe una contingencia en el lugar donde estás".
+
+- Gracias por tu amable espera, al revisar la información no visualizo contingencia reportada.
+
+Pepe, revisaré en tu equipo que tus datos móviles están correctamente configurados. Para esto, necesito que puedas ir a ajustes y luego a configuración.
+Ahora ingresa a Internet y redes
+Si tienes el WiFi activado, por favor desactívalo
+Enciende tus datos móviles".
+
+Pepe, antes de hablar conmigo, nuestra asistente virtual ¿te indicó que se realizaría un ajuste del teléfono? ¿O lo realizaste por nuestra APP?”
+
+¿Apagaste y encendiste tu equipo después del ajuste?
+
+“Por favor apaga y enciende tu teléfono, y revisa si te funcionó".
+
+Pepe, realizaré la misma actualización del equipo, pero esta vez de forma manual. Por favor sigue estos pasos y luego apaga y enciende tu teléfono, para revisar si puedes navegar.
+
+- En el equipo, ir al ícono de ajustes.
+- Luego ir a Datos Móviles o Redes Móviles.
+- Ingresar en la opción APN o Nombre de punto de acceso.
+- Comprobar que en la configuración se tiene configurado:bam.entelpcs.cl
+
+ Si en caso no está configurado con el bam.entelpcs.cl, realiza lo siguiente
+
+- Nombre de APN: Entel APN
+- APN: bam.entelpcs.cl
+- Tipo de autenticación: PAP
+- Tipo de APN: default
+
+PARAMETROS DE RED:
+
+HLR:
+GPRS - APNID - 0
+GPRS - EQOSID- 4095
+NAM - PROV - 0
+
+LOCATIONDATA - VLRADDRESS - 4-5695677500
+LOCATIONDATA - MSCNUMBER - 4-5695677500
+LOCATIONDATA - SGSNNUMBER - UNKNOWN
+VLRDATA - 4-5695677500
+SCHAR - 4-45 (PP prepago), 6-74 (CC cuenta controlada) y 8-62 (SS suscripción).
+
+SERVICE - CODE - TDE_IM_CC
+SERVICE - ENABLED - true
+SERVICE - CODE - TDE_ROAMING
+
+epsIndividualSubscribedChargingCharacteristic: 1190
+
+Pablo, revisé en nuestros sistemas y para que puedas usar internet, necesitamos actualizar los parámetros en tu equipo. Te pido disculpas porque no puedo realizarlo en línea. Ingresaré de inmediato una solicitud para que nuestra área técnica aplique los cambios".
+
+Pepe, por favor indícame  tu dirección y comuna:
+
+
+Pepe, ¿es posible que puedas probar tu chip en otro equipo? Esto es para descartar un problema físico en el equipo o el chip".
+
+Pepe, no te preocupes, te recomiendo que si sigues presentando dificultad, puedas pedir ayuda para hacerlo en casa, de todas formas son validaciones adicionales".
+
+Pepe,  para realizar la prueba, retira el chip de tu equipo e insértalo en el otro equipo que tienes, y prueba si puedes navegar. Si no logras navegar, el chip puede estar dañado, y necesitas realizar el cambio".
+
+Pepe,  realicé todas las validaciones y configuraciones posibles en nuestro sistema para poder ayudarte y veo que está configurado correctamente.
+Si sigues presentando la dificultad puede ser debido a la demanda de red en el sector que esté generando saturación momentánea, de todas maneras, lo estamos registrando para monitoreo del área técnica".
+
+
+****** DIFICULTAD DE NAVEGACIÓN******
+
+Comprendo lo que me indicas, Permíteme revisar la dificultad que presentas, envíame los siguientes datos por favor:
+
+- Rut
+- Región, comuna, dirección exacta con número de casa, en caso der un sector rural, envíame la parcela o condominio asociado
+- Marca y modelo del equipo
+- Línea que presenta esta dificultad
+- Fecha del inconveniente
+- Barras de señal
+- Te sucede en algún lugar en específico?
+- Imei del equipo, la podrás encontrar marcando *#06#
+
+Gracias por la espera, al revisar la información en el sistema, visualizo que la línea con el plan se encuentra activos y no visulizo reporte generado a nivel general en la comuna, asimismo los parámetros de red se encuentran registrados de manera correcta en el sistema y la capacidad es buena en dicha zona, es por ello que en este momento he procedido a realizar un reenvío de señal, por lo que te sugiero reiniciar tu dispositivo esperando unos 5 minutos, luego intenta navegar y realizar llamadas, me comentas los resultados por favor
+
+Comprendo lo que me indicas, por favor coméntame cuanto tiempo tienes usando el chip.
+
+Gracias por el dato otorgado, en este caso te pido realizar una prueba cruzada el cual consiste en insertar tu chip en otro equipo e intentes navegar, me comentas los resultados por favor, Quedo atento.
+
+Mucha gracias por la espera, he procedido a ingresar un reporte con carácter de urgencia para que tu caso se revise y se pueda dar una respuesta a la brevedad posible en un plazo no mayor a 5 días hábiles, me encantaría que se efectuara en este instante pero no me es posible ya que por este medio he realizado los descartes correspondientes y el problema persite, por lo que te pido amablemente mantenerte a la espera. :)
+
+
+Entendemos tu molestia, pero no te preocupes que nuestra intención es ayudarte, por lo que te sugerimos realizar los siguientes pasos para tu recarga:
+
+- Ingresar al link https://miperfil.entel.cl/MiEntelPublico/Recarga
+- Introducir tu número móvil al cual deseas recarga en el cuadro
+- Confirma número de  recarga 
+- Escoger el monto de recarga que deseas efectuar
+- Seleccionar el método de pago 
+- Pulsar el botón recargar. ^SS
+
+
+
+problema tecnica
+difcultad de navegación
+no conecta
+rut
+nombre:
+contacto:
+luces:
+detalle 
+dirección:
